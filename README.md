@@ -45,16 +45,6 @@ I'm **Bishoy Kamel**, a Computer Engineering student at Helwan University, passi
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BishoyKamel&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BishoyKamel&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
-
 ### 🤝 Let's Connect!
 
 <p align="left">
