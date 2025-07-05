@@ -17,7 +17,7 @@ I'm **Bishoy Kamel**, a Computer Engineering student at Helwan University, passi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="40" alt="Kaggle"/>
+  <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="20" alt="Kaggle"/>
 </p>
 
 ---
