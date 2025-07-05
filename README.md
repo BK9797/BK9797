@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FF3C3C&center=true&vCenter=true&width=600&lines=Bishoy+Kamel;AI+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FF3C3C&center=true&vCenter=true&width=600&lines=Bishoy+Kamel;AI+Engineer" alt="Typing animation showing name and role" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
+
 I'm **Bishoy Kamel**, a Computer Engineering student at Helwan University, passionate about **Artificial Intelligence** and real-world problem-solving.  
 
 ---
@@ -12,34 +13,34 @@ I'm **Bishoy Kamel**, a Computer Engineering student at Helwan University, passi
 ### 🛠️ Tools & Platforms
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="18" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="18" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="18" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="18" alt="Git"/>
-  <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="18" alt="Kaggle"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git"/>
+  <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="30" alt="Kaggle"/>
 </p>
 
 ---
 
 ### 🧠 Languages Used in My Projects
 
-<a href="https://github.com/search?q=user%3ABishoyKamel+C&type=repositories">
+<a href="https://github.com/search?q=user%3ABK9797+C&type=repositories">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
 </a>
-<a href="https://github.com/search?q=user%3ABishoyKamel+C%2B%2B&type=repositories">
+<a href="https://github.com/search?q=user%3ABK9797+C%2B%2B&type=repositories">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
 </a>
-<a href="https://github.com/search?q=user%3ABishoyKamel+Python&type=repositories">
+<a href="https://github.com/search?q=user%3ABK9797+Python&type=repositories">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </a>
-<a href="https://github.com/search?q=user%3ABishoyKamel+Embedded+C&type=repositories">
-  <img src="https://img.shields.io/badge/Embedded%20C-darkgreen?style=for-the-badge" alt="Embedded C"/>
+<a href="https://github.com/search?q=user%3ABK9797+Embedded+C&type=repositories">
+  <img src="https://img.shields.io/badge/Embedded%20C-darkgreen?style=for-the-badge&logo=c&logoColor=white" alt="Embedded C"/>
 </a>
-<a href="https://github.com/search?q=user%3ABishoyKamel+Assembly&type=repositories">
+<a href="https://github.com/search?q=user%3ABK9797+Assembly&type=repositories">
   <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge" alt="Assembly"/>
 </a>
-<a href="https://github.com/search?q=user%3ABishoyKamel+SQL&type=repositories">
+<a href="https://github.com/search?q=user%3ABK9797+SQL&type=repositories">
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </a>
 
